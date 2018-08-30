@@ -1098,7 +1098,7 @@ static int ConfTestGetBool(void)
         "0",
         "something",
         "off", "OFF",
-        "false", "FalSE",
+        "false", "FALSE",
         "no", "NO",
     };
     int val;
